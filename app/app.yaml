@@ -1,0 +1,4 @@
+application: simple-sample
+version: uno
+runtime: go
+api_version: go1
